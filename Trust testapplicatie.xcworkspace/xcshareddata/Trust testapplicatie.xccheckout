@@ -12,22 +12,34 @@
 	<dict>
 		<key>432ABF1C79F281CEFA2C80495A84E8D5E04C90DB</key>
 		<string>https://github.com/EdwinOtten/Trust_testapplicatie.git</string>
+		<key>7772CBB56927095286F2023884F8F6FBF9D52F61</key>
+		<string>https://github.com/EdwinOtten/testapplication.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Trust testapplicatie.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>432ABF1C79F281CEFA2C80495A84E8D5E04C90DB</key>
+		<string>../../Trust_testapplicatie</string>
+		<key>7772CBB56927095286F2023884F8F6FBF9D52F61</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/EdwinOtten/Trust_testapplicatie.git</string>
+	<string>https://github.com/EdwinOtten/testapplication.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>432ABF1C79F281CEFA2C80495A84E8D5E04C90DB</string>
+	<string>7772CBB56927095286F2023884F8F6FBF9D52F61</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7772CBB56927095286F2023884F8F6FBF9D52F61</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testapplication</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
